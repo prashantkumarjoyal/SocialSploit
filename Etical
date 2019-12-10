@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 #
 # Obfuscate by @CesarHackGray
-# Contacta https://t.me/CesarGray
-# Channel: https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
+# Contacta Email @prashantkumarjoyal@gmail.com
+
 #
 #
-CesarHackGray=$(mktemp)
-base64 -d  >${CesarHackGray}<<DIXIE
+PrashantKumarJoyal=$(mktemp)
+base64 -d  >${PrashantKumarJoyal}<<DIXIE
 IyEvYmluL2Jhc2gKUj0nXDAzM1sxOzMxbScgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
 ICAgICAgICAgICAgICAgICAgICAgICAgICBHPSdcMDMzWzE7MzJtJyAgICAgICAgICAgICAgICAg
 ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFk9J1wwMzNbMTszM20nICAg
@@ -38,5 +38,5 @@ CmVjaG8gJyRSQGkufn4gISAgICAgOiAgIH4kJCQkJEIkJGVuOmBgICAgICAgICAgQ29tdW5pdHkn
 CmVjaG8gJz9NWFRAV3gufiAgICA6ICAgICB+IiMjKiQkJCRNfiAgICAgaHR0cHM6Ly90Lm1lL0Nl
 c2FyR3JheScKZWNobyAKCg==
 DIXIE
-source ${CesarHackGray}
-rm -rf ${CesarHackGray}
+source ${PrashantKumarJoyal}
+rm -rf ${PrashantKumarJoyal}
