@@ -36,7 +36,7 @@ ${Cesar} install ${guillon} ${Gray6} &>> /dev/null
 
 echo
 echo -e ${G}"[+]${W} Finished"
-echo -e ${G}"[+]${W} Created by ${Cesar1}..."
+echo -e ${G}"[+]${W} Created by ${Prashant_Kumar_Joya1}..."
 echo -e ${G}"[+]${W} Contactame ${link}.."
 echo -e ${G}"[+]${W} Usage ${Usage}"
 echo
