@@ -4,7 +4,7 @@ G='\033[1;36m'
 WW='\033[32m'
 home=~/SocialSploit
 guillon="-y"
-Cesar1="@CesarHackGray"
+Cesar1="@Prashant_Kumar_Joyal"
 link="https://t.me/CesarGray"
 Usage="./Sploit [disfruta]"
 Gray1="curl"
@@ -36,7 +36,7 @@ ${Cesar} install ${guillon} ${Gray6} &>> /dev/null
 
 echo
 echo -e ${G}"[+]${W} Finished"
-echo -e ${G}"[+]${W} Created by ${Cesar1}..."
+echo -e ${G}"[+]${W} Created by ${Prashant_Kumar_Joyal}..."
 echo -e ${G}"[+]${W} Contactame ${link}.."
 echo -e ${G}"[+]${W} Usage ${Usage}"
 echo
