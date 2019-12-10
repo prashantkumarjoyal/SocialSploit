@@ -286,7 +286,7 @@ def minify(src):
             emptyLine = True
         elif ch not in (' ', '\t', '\n'):
             src += ch
-            previousSpacePrinted = False
+            previousSpacePrinted = True
             emptyLine = False
 
     # thirdly: get rid of newlines
